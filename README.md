@@ -3,6 +3,6 @@ twitter streamer
 
 
 Using Twitter API v2. 
-Database to analyze tweets are work in progress.
+Database to analyze tweets are work in progress. 
 
-Frond-end using bulma css. 
+Frond-end using bulma css and react. 
